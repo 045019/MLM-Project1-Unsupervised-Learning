@@ -14,15 +14,13 @@ This project explores a dataset containing beer recipes to gain insights into th
 
 # Description of files related to the project 
 
-* Adidas US Sales Datasets.xlsx : The dataset selected for this project; Downloaded from Kaggle
-* Hello.py : The source code for building the dashboard on Streamlit. It contains codes which are specifically tailored to run on Streamlit.
-* requirements.txt : A necessary file for hosting the dashboard on the Streamlit platform which comprises of all the necessary libraries required for the source code.
-* devcontainer.json : Docker container for Streamlit that is specifically configured to provide a fully featured development environment.
-  
+* beer_data.csv : The dataset selected for this project; Downloaded from Kaggle
+* P1_Clustering.ipynb : The notebook consisting of compiled codes and detailed report
 
 
-Acknowledgments- I would like to express my gratitude to the following individuals and sources for their contributions to this project: Prof. Amarnath Mitra: I am thankful for the guidance and support provided by Prof. Amarnath Mitra, whose expertise has been invaluable in shaping this project.
+# Acknowledgment
 
+I would like to express my sincere gratitude to Prof. Amarnath Mitra for his invaluable guidance and support throughout this project. His expertise and insights have been instrumental in shaping the direction of this project and enhancing its quality. I am grateful for the time and effort he has dedicated to reviewing my work, providing feedback, and encouraging me to explore new ideas. 
 
 
 
