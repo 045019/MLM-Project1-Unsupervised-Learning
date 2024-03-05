@@ -16,7 +16,7 @@ This project explores a dataset containing beer recipes to gain insights into th
 
 * beer data.zip : The compressed folder containing the dataset
 * beer_data.csv : The dataset selected for this project; Downloaded from Kaggle
-* P1_Clustering.ipynb : The notebook consisting of compiled codes and detailed report
+* P1_Clustering.ipynb : The notebook consisting of compiled codes, outputs and detailed report
 
 
 # Acknowledgment
